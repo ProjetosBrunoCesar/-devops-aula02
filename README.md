@@ -1,4 +1,5 @@
 # -devops-aula02
 miguel falabela 
-silvio santos 
+manoel
 titirica
+tom cruyze
